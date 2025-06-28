@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+
+# If you use Google Colab, nltk datasets (like stopwords or punkt) may also be needed via:
+
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
