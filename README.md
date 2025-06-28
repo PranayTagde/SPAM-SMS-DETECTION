@@ -33,7 +33,7 @@ This project performs SMS spam classification using Natural Language Processing 
 
 ```bash
 git clone https://github.com/PranayTagde/SPAM-SMS-DETECTION.git
-cd your-repo-name
+cd SPAM-SMS-DETECTION
 ```
 
 1. Install the required dependencies:
